@@ -1,4 +1,5 @@
 # EC530 P2P System
+### Celine Chen
 
 ## Chatbox
 
