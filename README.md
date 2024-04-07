@@ -17,4 +17,4 @@ As shown in this image, the user Celine creates a profile and begins adding frie
 
 <img width="568" alt="Screenshot 2024-04-07 at 7 57 39 PM" src="https://github.com/celinec1/Chatbox/assets/99696770/533a6666-6597-4fa4-8011-790a1d26eaf4">
 
-As shown in this image, the user Celine and Jacob have entered a chatroom and began communicating.
+As shown in this image, the user Celine and Jacob have entered a chatroom and began communicating. To exit the chatroom, and user types EXIT and the chat ends. 
