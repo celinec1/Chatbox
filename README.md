@@ -1,5 +1,5 @@
 # EC530 P2P System
-### Celine Chen
+Created by: Celine Chen
 
 ## Chatbox
 
