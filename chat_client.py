@@ -44,7 +44,6 @@ while True:
     if action == "1":
         friend_id = input("Enter your friend's UserID: ")
         response = send_receive(s, f"ADD_FRIEND:{user_id}:{friend_id}")
-        print(f"Debug: Sending ADD_FRIEND with user_id={user_id} and friend_id={friend_id}")
         response = send_receive(s, f"ADD_FRIEND:{user_id}:{friend_id}")
         print(response)
     elif action == "2":
