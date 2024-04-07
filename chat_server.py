@@ -141,7 +141,7 @@ def handle_client(conn, addr):
                 # Start a chat session between user_id and params[0]
                 friend_id = params[0]
                 start_chat_session(user_id, friend_id)
-                response = f"Now in chatroom with {users_db[friend_id]}."
+                # response = f"Now in chatroom with {users_db[friend_id]}."
 
             elif command == "SEND_CHAT":
                 _, from_user, to_user, message = data.split(":", 3)
